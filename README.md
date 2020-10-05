@@ -1,4 +1,4 @@
-![Header](https://github.com/GooNext/goonext/blob/master/assets/image.png)
+![Header](https://github.com/GooNext/goonext/blob/master/assets/img.jpg)
 
 About me
 
