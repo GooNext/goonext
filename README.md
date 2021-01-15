@@ -1,6 +1,7 @@
 ![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
-
-<style>
+### About me
+  <ul class="ticks">
+  <style>
   .ticks {
     display: flex;
     flex-direction: column;
@@ -10,9 +11,6 @@
     align-items: center;
   }
 </style>
-
-### About me
-  <ul class="ticks">
     <li class="tick"><img src="./assets/tick.gif"/>First item</li>
     <li class="tick"><img src="./assets/tick.gif"/>First item</li>
     <li class="tick"><img src="./assets/tick.gif"/>First item</li>
