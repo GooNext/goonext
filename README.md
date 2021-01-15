@@ -1,6 +1,6 @@
 ![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
 ### About me
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=goonext&show_icons=true&theme=cobalt)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api/wakatime?username=goonext))
 
 ### Languages and Tools
   ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
