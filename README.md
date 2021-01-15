@@ -1,20 +1,10 @@
 ![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
 ### About me
-  <ul class="ticks">
-  <style>
-  .ticks {
-    display: flex;
-    flex-direction: column;
-  }
-  .tick {
-    display: flex;
-    align-items: center;
-  }
-</style>
-    <li class="tick"><img src="./assets/tick.gif"/>First item</li>
-    <li class="tick"><img src="./assets/tick.gif"/>First item</li>
-    <li class="tick"><img src="./assets/tick.gif"/>First item</li>
-    <li class="tick"><img src="./assets/tick.gif"/>First item</li>
+  <ul style="list-style-type: none;" class="ticks">
+    <li style="display: flex; align-items: center;" class="tick"><img src="./assets/tick.gif"/>First item</li>
+    <li style="display: flex; align-items: center;" class="tick"><img src="./assets/tick.gif"/>First item</li>
+    <li style="display: flex; align-items: center;" class="tick"><img src="./assets/tick.gif"/>First item</li>
+    <li style="display: flex; align-items: center;" class="tick"><img src="./assets/tick.gif"/>First item</li>
   </ul>
 
 ### Languages and Tools
