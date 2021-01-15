@@ -1,4 +1,4 @@
-![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
+![Header](https://github.com/GooNext/goonext/blob/master/assets/glitch.gif)
 ### About me
   [![Valeriy Drozdovich stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=goonext&hide_border=true&title_color="4EB03F"&show_icons=true&card_width=200&include_all_commits=true&theme=highcontrast)](https://github.com/goonext)
 #### First of all, my goal is to develop, to contribute knowledge to myself in order to become better and better. Now I am 20 years old, I started programming in 2018 and during this time I managed to achieve a lot in this area, due to my perseverance and responsibility. I managed to work in 2 companies, at the moment I work in the company as a Frontend developer. I am a very fast learner and at my age I want to take the most out of this life and profession!
