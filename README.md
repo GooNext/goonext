@@ -1,7 +1,7 @@
 ![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
 ### About me
   [![Valeriy Drozdovich stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=goonext&hide_border=true&title_color="4EB03F"&show_icons=true&card_width="50%"&include_all_commits=true&theme=highcontrast)](https://github.com/goonext)
-  [![Valeriy Drozdovich langs](https://github-readme-stats.vercel.app/api/wakatime?username=goonext)](https://github.com/goonext)
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
   ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
