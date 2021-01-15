@@ -1,4 +1,4 @@
-![Header](https://github.com/GooNext/goonext/blob/master/assets/glitch.gif)
+![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
 
 ### About me
 
