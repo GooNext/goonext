@@ -14,6 +14,7 @@ About me
 
 ### Follow Me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://msng.link/o/?go_next=tg)
-[![Instagram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=instagram&logoColor=27A0D9)](https://msng.link/o/?go_next=tg)
+[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=C92F9C)](https://www.instagram.com/go___next/)
+![Email](https://img.shields.io/badge/-valeracool133@gmail.com-090909?style=for-the-badge&logo=gmail&logoColor=EA4335)
 [![LinkedIn](https://img.shields.io/badge/-Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/valery-drozdovich-23b83518b/)
-[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=instagram&logoColor=C92F9C)](https://www.linkedin.com/in/valery-drozdovich-23b83518b/)
+[![GitHub](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github&logoColor=FFFFFF)](https://github.com/GooNext)
