@@ -1,6 +1,23 @@
 ![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
 
+<style>
+  .ticks {
+    display: flex;
+    flex-direction: column;
+  }
+  .tick {
+    display: flex;
+    align-items: center;
+  }
+</style>
+
 ### About me
+  <ul class="ticks">
+    <li class="tick"><img src="./assets/tick.gif"/>First item</li>
+    <li class="tick"><img src="./assets/tick.gif"/>First item</li>
+    <li class="tick"><img src="./assets/tick.gif"/>First item</li>
+    <li class="tick"><img src="./assets/tick.gif"/>First item</li>
+  </ul>
 
 ### Languages and Tools
   ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
