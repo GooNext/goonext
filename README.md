@@ -1,9 +1,7 @@
 ![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
 ### About me
-  <div>
-    [![Valeriy Drozdovich stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=goonext&hide_border=true&title_color="4EB03F"&show_icons=true&card_width="45%"&include_all_commits=true&theme=highcontrast)](https://github.com/goonext)
-  [![Valeriy Drozdovich stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=goonext&hide_border=true&title_color="4EB03F"&show_icons=true&card_width="45%"&include_all_commits=true&theme=highcontrast)](https://github.com/goonext)
-  </div>
+  [![Valeriy Drozdovich stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=goonext&hide_border=true&title_color="4EB03F"&show_icons=true&card_width="200"&include_all_commits=true&theme=highcontrast)](https://github.com/goonext)
+  [![Valeriy Drozdovich stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=goonext&hide_border=true&title_color="4EB03F"&show_icons=true&card_width="200"&include_all_commits=true&theme=highcontrast)](https://github.com/goonext)
 
 ### Languages and Tools
   ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
