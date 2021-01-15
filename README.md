@@ -1,11 +1,6 @@
 ![Header](https://github.com/GooNext/goonext/blob/master/assets/glitchgg.gif)
 ### About me
-  <ul style="list-style-type: none;" class="ticks">
-    <li style="display: flex; align-items: center;" class="tick"><img src="./assets/tick.gif"/>First item</li>
-    <li style="display: flex; align-items: center;" class="tick"><img src="./assets/tick.gif"/>First item</li>
-    <li style="display: flex; align-items: center;" class="tick"><img src="./assets/tick.gif"/>First item</li>
-    <li style="display: flex; align-items: center;" class="tick"><img src="./assets/tick.gif"/>First item</li>
-  </ul>
+  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=goonext&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools
   ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
